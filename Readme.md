@@ -1,0 +1,1 @@
+Esse projeto ensina enviar emails com a linguagem python
